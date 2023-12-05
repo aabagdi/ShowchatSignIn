@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Google Sign In</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.859724188216-1t6d4eeihtb0eb5tb0vcu0plq4qdkp90</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Phone Sign In</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>app-1-859724188216-ios-a5670ee0e5bd05e9e8f4cd</string>
+			</array>
+		</dict>
+	</array>
+	<key>GIDClientID</key>
+	<string>859724188216-1t6d4eeihtb0eb5tb0vcu0plq4qdkp90.apps.googleusercontent.com</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+</dict>
+</plist>
