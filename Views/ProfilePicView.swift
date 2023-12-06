@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             HStack {
-                Image("logo")
+                Image("logoLight")
                 Spacer()
             }
             Spacer()
