@@ -16,7 +16,7 @@ struct SignUpView: View {
         NavigationStack {
             VStack {
                 HStack {
-                    Image("logo")
+                    Image("logoDark")
                     Spacer()
                 }
                 Spacer()

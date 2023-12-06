@@ -15,7 +15,7 @@ struct EmailView: View {
     var body: some View {
         VStack {
             HStack {
-                Image("logo")
+                Image("logoDark")
                 Spacer()
             }
             HStack {
